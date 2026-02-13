@@ -1,0 +1,21 @@
+{
+  "name": "cyberpunk-2077",
+  "displayName": "Cyberpunk-2077",
+  "description": "cyberpunk theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk 2077",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberpunk 2077-color-theme.json"
+      }
+    ]
+  }
+}
