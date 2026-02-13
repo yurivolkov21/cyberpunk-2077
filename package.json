@@ -1,8 +1,22 @@
 {
   "name": "cyberpunk-2077",
-  "displayName": "Cyberpunk-2077",
-  "description": "cyberpunk theme",
-  "version": "0.0.1",
+  "displayName": "Cyberpunk 2077",
+  "description": "A dark theme inspired by the Cyberpunk 2077 universe with neon colors on a dark background",
+  "version": "1.0.0",
+  "publisher": "PUBLISHER_ID",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurivolkov21/cyberpunk-2077"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "cyberpunk",
+    "neon",
+    "cyberpunk 2077",
+    "night city"
+  ],
   "engines": {
     "vscode": "^1.109.0"
   },
