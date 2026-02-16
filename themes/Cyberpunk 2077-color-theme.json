@@ -19,7 +19,7 @@
     "editorBracketMatch.background": "#1ac5b156",
     "editorBracketMatch.border": "#1AC5B0",
     "editorError.foreground": "#ff0000",
-    "editorWarning.foreground": "#FDF500",
+    "editorWarning.foreground": "#ffffff",
 
     // ===== ACTIVITY BAR (thanh icon bên trái) =====
     "activityBar.background": "#1C1E28",
