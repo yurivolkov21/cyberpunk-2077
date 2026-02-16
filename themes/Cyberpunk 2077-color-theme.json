@@ -8,17 +8,17 @@
     "editor.selectionBackground": "#9370DB40",
     "editor.selectionHighlightBackground": "#37EBF320",
     "editor.wordHighlightBackground": "#1AC5B030",
-    "editor.findMatchBackground": "#FDF50040",
-    "editor.findMatchHighlightBackground": "#FDF50020",
+    "editor.findMatchBackground": "#fdf500d7",
+    "editor.findMatchHighlightBackground": "#fdf500d7",
     "editorCursor.foreground": "#37EBF3",
     "editorWhitespace.foreground": "#3B3D4F",
     "editorIndentGuide.background1": "#3B3D4F",
     "editorIndentGuide.activeBackground1": "#9370DB80",
     "editorLineNumber.foreground": "#5A5D70",
     "editorLineNumber.activeForeground": "#37EBF3",
-    "editorBracketMatch.background": "#1AC5B020",
+    "editorBracketMatch.background": "#1ac5b156",
     "editorBracketMatch.border": "#1AC5B0",
-    "editorError.foreground": "#710000",
+    "editorError.foreground": "#ff0000",
     "editorWarning.foreground": "#FDF500",
 
     // ===== ACTIVITY BAR (thanh icon bên trái) =====
@@ -168,7 +168,7 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#710000"
+        "foreground": "#ff0101"
       }
     },
     {
